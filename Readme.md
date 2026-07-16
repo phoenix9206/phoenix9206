@@ -46,13 +46,11 @@ Every project featured here is presented as a **business case study** — the pr
   <img src="./docs/screenshot-projects.png" alt="Projects section" width="90%" />
 </div>
 
-<sub>Replace the images above with real screenshots — drop them in a `/docs` folder before pushing.</sub>
-
 <br>
 
 ## ⚡ Highlights
 
-| | |
+
 |---|---|
 | **1.5+ years** | professional experience shipping production systems |
 | **6+ projects** | featured as full business case studies, not toy demos |
@@ -98,21 +96,6 @@ Every project featured here is presented as a **business case study** — the pr
 | 06 | **Arileo Infotech Site** | Needed a credible, production-ready company site | React, Tailwind, EmailJS |
 
 Full architecture diagrams, challenges, and measured business impact for each are on the [live site →](https://nirav-gadhiya.vercel.app)
-
-<br>
-
-## 🚀 Running Locally
-
-```bash
-# clone the repo
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-
-# open directly — no build step required
-open index.html
-```
-
-> This build is a single self-contained `index.html` (no framework runtime required to preview). A Vite + React + TypeScript version of this same site is available on request / in the `react-version` branch.
 
 <br>
 
