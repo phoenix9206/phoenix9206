@@ -50,7 +50,7 @@ Every project featured here is presented as a **business case study** — the pr
 
 ## ⚡ Highlights
 
-
+| | |
 |---|---|
 | **1.5+ years** | professional experience shipping production systems |
 | **6+ projects** | featured as full business case studies, not toy demos |
