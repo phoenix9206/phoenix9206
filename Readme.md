@@ -1,12 +1,12 @@
 <div align="center">
 
-# Nirav Gadhiya — Portfolio
+# Nirav Gadhiya
 
 ### Software Engineer
 
 Production-grade automation systems, AI pipelines and scalable full-stack applications — built with **Python, FastAPI, Django and React.**
 
-[![Live Site](https://img.shields.io/badge/Live-niravgadhiya.dev-8b7cf6?style=for-the-badge)](https://nirav-gadhiya.vercel.app)
+[![Live Site](https://img.shields.io/badge/Live-niravgadhiya.vercel.app-8b7cf6?style=for-the-badge)](https://nirav-gadhiya.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4ea1ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirav-gadhiya-20844424a/)
 [![Email](https://img.shields.io/badge/Email-Contact-6ee7b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadhiyanirav6803@gmail.com)
 
